@@ -155,7 +155,7 @@ main .pequena {
 }
 
 .video {
-    background-color: red;
+    background-color: var(--cor1);
     margin-bottom: 30px;
     margin: 0 -20px 30px -20px;
     padding: 20px;
